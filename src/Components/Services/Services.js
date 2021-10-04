@@ -4,7 +4,7 @@ import useServices from '../../hooks/useServices';
 import SingleService from '../SingleService/SingleService';
 
 const Services = () => {
-    const [services, setServices] = useServices();
+    const [services] = useServices();
     return (
         <div>
             <Container>

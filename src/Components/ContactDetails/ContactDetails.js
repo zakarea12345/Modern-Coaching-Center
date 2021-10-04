@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCoffee, faPhone, faAddressBook, faVoicemail} from '@fortawesome/free-solid-svg-icons'
+import {faPhone, faAddressBook, faVoicemail} from '@fortawesome/free-solid-svg-icons'
 // this variable is for showing contactDetails in contact page 
 const ContactDetails = () => {
     return (

@@ -1,6 +1,4 @@
-import React, { useEffect, useState } from 'react';
-import { Carousel, Container, Row } from 'react-bootstrap';
-import { Link } from 'react-router-dom';
+import {Container, Row } from 'react-bootstrap';
 import useServices from '../../hooks/useServices';
 import SingleService from '../SingleService/SingleService';
 import SlideShow from '../SlideShow/SlideShow';
