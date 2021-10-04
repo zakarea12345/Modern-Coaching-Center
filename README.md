@@ -2,7 +2,7 @@
 Project Name: Modern Coaching Center.
 Project Description: This project is for a coaching center . where student can know about the courses which are offered from the academi.
 
-Live link of the project(https://github.com/facebook/create-react-app).
+Live link of the project(https://modern-coaching-center-zakarea.netlify.app).
 
 ## Available Scripts
 
