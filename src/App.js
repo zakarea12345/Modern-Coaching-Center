@@ -16,28 +16,38 @@ function App() {
   return (
     <div>
       <BrowserRouter>
-        <Header></Header>
+        
         <Switch>
           <Route exact path="/">
+              <Header></Header>
               <Home></Home>
+              <Footer></Footer>
           </Route>
           <Route path="/home">
+              <Header></Header>
               <Home></Home>
+              <Footer></Footer>
           </Route>
           <Route path="/about">
+              <Header></Header>
               <About></About>
+              <Footer></Footer>
           </Route>
           <Route path="/service">
+              <Header></Header>
               <Services></Services>
+              <Footer></Footer>
           </Route>
           <Route path="/contact">
+              <Header></Header>
               <Contact></Contact>
+              <Footer></Footer>
           </Route>
           <Route path="*">
              <NotFound></NotFound> 
           </Route>
         </Switch>
-        <Footer></Footer>
+        
       </BrowserRouter>
     </div>
   );
