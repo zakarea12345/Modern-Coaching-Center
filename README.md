@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Modern Coaching Center Website project
 Project Name: Modern Coaching Center.
 Project Description: This project is for a coaching center . where student can know about the courses which are offered from the academi.
 
