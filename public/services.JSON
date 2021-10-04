@@ -1,0 +1,74 @@
+[
+    {
+      "courseTitle": "Physics",
+      "price": 5000,
+      "img": "https://scx2.b-cdn.net/gfx/news/2019/physics.jpg",
+      "mentor": "Masum Khan"
+    },
+    {
+      "courseTitle": "Chemistry",
+      "price": 7000,
+      "img": "https://assets.ltkcontent.com/images/44568/chemistry-beakers_0066f46bde.jpg",
+      "mentor": "Sadman"
+    },
+    {
+      "courseTitle": "Biology",
+      "price": 6000,
+      "img": "http://images.shiksha.com/mediadata/images/articles/1538985491phpKctLgx.jpeg",
+      "mentor": "Shawan"
+    },
+    {
+      "courseTitle": "G.Math",
+      "price": 10000,
+      "img": "https://ph-test-11.slatic.net/original/7d189f3b58ba141f33f5d7a72c063054.jpg",
+      "mentor": "Saiak Zakarea"
+    },
+    {
+      "courseTitle": "Higher Math",
+      "price": 10000,
+      "img": "https://www.mathplanet.com/media/584568/mathplanet.png",
+      "mentor": "Saiak Zakarea"
+    },
+    {
+      "courseTitle": "Bangla",
+      "price": 3000,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.svg/1200px-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.svg.png",
+      "mentor": "Sadika"
+    },
+    {
+      "courseTitle": "Religion",
+      "price": 3500,
+      "img": "https://miro.medium.com/max/1400/0*psEgrcYvhsP4goqx.png",
+      "mentor": "Kari Hafej Zakarea"
+    },
+    {
+      "courseTitle": "Global Studies",
+      "price": 3500,
+      "img": "https://www.boiboiboi.com/wp-content/uploads/2019/07/Bangladesh-and-Global-Studies-Class-7-National-Curriculum-Textbook-Board-Dhaka-New-Edition-.jpg",
+      "mentor": "Choyonika"
+    },
+    {
+      "courseTitle": "Finance",
+      "price": 1500,
+      "img": "https://www.frevvo.com/blog/wp-content/uploads/2020/01/Frevvo-Improve-Finance-hero-1000x528.png",
+      "mentor": "Goribullah"
+    },
+    {
+      "courseTitle": "Marketing",
+      "price": 2500,
+      "img": "https://cdn.corporatefinanceinstitute.com/assets/marketing.jpeg",
+      "mentor": "Sifatullah"
+    },
+    {
+      "courseTitle": "Accounting",
+      "price": 2500,
+      "img": "https://www.oracle.com/oce/press/assets/CONT6B6B74E125DE417D8F81599F681D632E/native/rc24-accounting.jpg",
+      "mentor": "Sajidujjaman"
+    },
+    {
+      "courseTitle": "Drawing",
+      "price": 5500,
+      "img": "https://archziner.com/wp-content/uploads/2019/07/colourful-anime-characters-split-drawing-anime-boy-drawing-1.jpg",
+      "mentor": "Disha Fokirni"
+    }
+  ]
