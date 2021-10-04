@@ -9,6 +9,7 @@ import Contact from './Components/Contact/Contact';
 import About from './Components/About/About';
 import Services from './Components/Services/Services';
 import NotFound from './Components/NotFound/NotFound';
+import Footer from './Components/Footer/Footer';
 
 
 function App() {
@@ -36,6 +37,7 @@ function App() {
              <NotFound></NotFound> 
           </Route>
         </Switch>
+        <Footer></Footer>
       </BrowserRouter>
     </div>
   );
