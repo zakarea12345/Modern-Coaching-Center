@@ -7,7 +7,7 @@ const SingleService = (props) => {
     const{courseTitle, price, img, mentor} = props.service;
     const history =  useHistory();
     const handleSeatBooking = () => {
-      history.push('/contact')
+      history.push('/seatBooking')
     }
     return (
         <div>

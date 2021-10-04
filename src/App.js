@@ -8,6 +8,8 @@ import About from './Components/About/About';
 import Services from './Components/Services/Services';
 import NotFound from './Components/NotFound/NotFound';
 import Footer from './Components/Footer/Footer';
+import SeatBooking from './Components/SeatBooking/SeatBooking';
+import ConfirmAdmission from './Components/ConfirmAdmission/ConfirmAdmission';
 
 
 function App() {
@@ -40,6 +42,12 @@ function App() {
               <Header></Header>
               <Contact></Contact>
               <Footer></Footer>
+          </Route>
+          <Route path="/seatBooking">
+               <SeatBooking></SeatBooking>
+          </Route>
+          <Route path="/confirmSeat">
+               <ConfirmAdmission></ConfirmAdmission>
           </Route>
           <Route path="*">
              <NotFound></NotFound> 
