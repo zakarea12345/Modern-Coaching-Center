@@ -1,6 +1,8 @@
 # Getting Started with Create React App
+Project Name: Modern Coaching Center.
+Project Description: This project is for a coaching center . where student can know about the courses which are offered from the academi.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live link of the project(https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
